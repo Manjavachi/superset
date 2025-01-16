@@ -14215,11 +14215,11 @@ msgstr "código Comitê Olímpico Internacional (cioc)"
 
 #, fuzzy
 msgid "color scheme for comparison"
-msgstr "Comparação de tempo"
+msgstr "comparação de tempo"
 
 #, fuzzy
 msgid "color type"
-msgstr "Cor por"
+msgstr "cor por"
 
 msgid "column"
 msgstr "coluna"
@@ -14230,7 +14230,7 @@ msgstr "conectando ao %(dbModelName)s."
 
 #, fuzzy
 msgid "content type"
-msgstr "Tipo de etapa"
+msgstr "tipo de etapa"
 
 msgid "count"
 msgstr "contagem"
@@ -14336,7 +14336,7 @@ msgstr "excluir"
 
 #, fuzzy
 msgid "descendant"
-msgstr "Ordenação decrescente"
+msgstr "ordenação decrescente"
 
 msgid "description"
 msgstr "descrição"
@@ -14399,14 +14399,14 @@ msgstr "modo de edição"
 
 #, fuzzy
 msgid "email subject"
-msgstr "Selecionar assunto"
+msgstr "assunto do e-mail"
 
 msgid "entries"
 msgstr "entradas"
 
 #, fuzzy
 msgid "error"
-msgstr "Erro"
+msgstr "erro"
 
 msgid "error dark"
 msgstr ""
@@ -14541,7 +14541,7 @@ msgstr "mediana"
 
 #, fuzzy
 msgid "meters"
-msgstr "Parâmetros"
+msgstr "parâmetros"
 
 msgid "metric"
 msgstr "métrica"
@@ -14569,7 +14569,7 @@ msgstr "deve ter um valor"
 
 #, fuzzy
 msgid "name"
-msgstr "Nome"
+msgstr "nome"
 
 msgid "no SQL validator is configured"
 msgstr "nenhum validador SQL está configurado"
@@ -14586,7 +14586,7 @@ msgstr "nvd3"
 
 #, fuzzy
 msgid "offline"
-msgstr "Offline"
+msgstr "offline"
 
 msgid "on"
 msgstr "em"
@@ -14605,7 +14605,7 @@ msgstr "geral"
 
 #, fuzzy
 msgid "owners"
-msgstr "Proprietários"
+msgstr "proprietários"
 
 msgid "p-value precision"
 msgstr "precisão do valor-p"
@@ -14689,7 +14689,7 @@ msgstr "recentes"
 
 #, fuzzy
 msgid "recipients"
-msgstr "recentes"
+msgstr "destinatários"
 
 msgid "report"
 msgstr "relatório"
@@ -14751,7 +14751,7 @@ msgid "step-after"
 msgstr "etapa seguinte"
 
 msgid "step-before"
-msgstr "passo-anteerior"
+msgstr "passo-anterior"
 
 msgid "stopped"
 msgstr "interrompido"
